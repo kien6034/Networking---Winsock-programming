@@ -1,0 +1,4 @@
+﻿  Client.cpp
+C:\Users\KIEN.TT176034\source\repos\LTM\Client\Client.cpp(63,51): warning C4244:  'initializing': conversion from 'sf::Uint64' to 'short', possible loss of data
+C:\Users\KIEN.TT176034\source\repos\LTM\Client\Client.cpp(63,28): warning C4244:  'initializing': conversion from 'sf::Uint64' to 'const short', possible loss of data
+  Client.vcxproj -> C:\Users\KIEN.TT176034\source\repos\LTM\Debug\Client.exe
